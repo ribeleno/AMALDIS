@@ -1,0 +1,104 @@
+body{
+    font-family: 'Stint Ultra Condensed', cursiva;
+}
+.img {
+    
+    background: #F8F9FB;
+}
+.img img {
+    width: 100%;
+}
+
+.in img {
+    width: 60%;
+}
+
+.nav-link{
+    color: #646363;
+}
+
+.imagen{
+    width: 80%;
+}
+
+.imagen2{
+    width: 80%;
+    float: right;
+}
+
+.imagen{
+    width: 80%;
+    width: 600px;
+}
+
+.textos{
+    text-align: justify;
+}
+
+.textosob{
+    text-align: justify;
+    margin-top: 40px;
+
+}
+
+.objetivo{
+    background-color: #dfdfdf;
+}
+.registro {
+    background: #dfdfdf;
+    padding: 15px;
+    margin: 15px;
+}
+.menú4 {
+    background: #dfdfdf;
+}
+
+.contenedor{
+    padding: 50px 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.título{
+    color:#BF2D2D;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+/*FORM*/
+
+.form {
+    background-color: #BF2D2D;
+    color: #ffffff;
+    padding: 10px;
+}
+
+
+.somos {
+    background: #f8f8f8;
+}
+
+h6 {
+    color: #BF2D2D;
+}
+p {
+    color: #000000;
+}
+
+.text {
+    margin-top: 50px;
+}
+
+.imgs img {
+    width: 20%; height: 20%;
+}
+
+.contenido-form{
+        display: flex;
+        height: 400px;
+        width: 100%;
+        justify-content: center;
+        align-items: center
+}
